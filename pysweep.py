@@ -327,9 +327,6 @@ def RunReport(master_json, target):
         reportfile.write(report_text)
 
 
-# CreateMasterFile('files', 'fresnoclovisprayerbreakfast_master.json')
-# RunReport('fresnoclovisprayerbreakfast_master.json', 'files')
-
 
 def MainRun():
     commands = ['set-master', 'report', '-m', '-t']
