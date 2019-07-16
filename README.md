@@ -6,3 +6,5 @@ Generate human readable reports of the comparison.
 
 
 Specifically built to evaluate changes in web directories and code in search of malicious content.
+
+A Work in Progress.
