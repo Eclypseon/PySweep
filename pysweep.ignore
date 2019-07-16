@@ -1,5 +1,5 @@
 ### This file sets the files and directories that pysweep.py will ignore. ###
-### 
+### CURRENTLY NOT WORKING
 
 .git
 
