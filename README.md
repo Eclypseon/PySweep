@@ -1,2 +1,5 @@
 # PySweep
-Python Script that can: create a json file describing a directory tree and containing hashes of all files within the tree; compare a target tree to the json master, and generate reports of the comparison. 
+Python Script that can:
+Create a json file describing a directory tree and containing hashes of all files within the tree.
+Compare a target directory tree to the json master.
+Generate human readable reports of the comparison. 
