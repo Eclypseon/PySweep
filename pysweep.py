@@ -1,6 +1,14 @@
+#!/usr/env/python2.6
+################################################################
+# PySweep.py - A file tree compare and analyze tool
+# Author: Eclypseon
+# Email: eclypseon@gmail.com
+# Compatible on most webservers running Python2.6
+# 
+#
+################################################################
 import os
 import json
-import FileHash as hasher
 import time
 import sys
 import hashlib
