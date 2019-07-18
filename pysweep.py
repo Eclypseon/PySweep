@@ -1,4 +1,4 @@
-#!/usr/env/python2.6
+#!/usr/bin/env/python2.6
 ################################################################
 # PySweep.py - A file tree compare and analyze tool
 # Author: Eclypseon
